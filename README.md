@@ -50,3 +50,12 @@
 ## 📈 GitHub Stats
 [![Shunmei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight)](https://github.com/ShunmeiCho)
 
+---
+
+## 🌐 Languages
+- 中文（母语）  
+- 日本語（商务级）  
+- English (Fluent)
+
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api?user=your_spotify_id)](https://open.spotify.com/user/your_spotify_id)  
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ShunmeiCho.ShunmeiCho)
