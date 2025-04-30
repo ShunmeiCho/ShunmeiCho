@@ -48,6 +48,5 @@
 ---
 
 ## 📈 GitHub Stats
-> 以下内容需额外启用：在 Profile 仓库中添加 `github-readme-stats` 配置  
-```markdown
-![Shunmei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight)
+[![Shunmei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight)](https://github.com/ShunmeiCho)
+
