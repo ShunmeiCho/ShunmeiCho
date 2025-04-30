@@ -57,5 +57,3 @@
 - 日本語（商务级）  
 - English (Fluent)
 
-[![Spotify]([https://spotify-now-playing-readme.vercel.app/api?user=your_spotify_id)](https://open.spotify.com/user/your_spotify_id](https://open.spotify.com/user/31iuor5rkvgul5ziqqbdlyz5dp7q))  
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ShunmeiCho.ShunmeiCho)
