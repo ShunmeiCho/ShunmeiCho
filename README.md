@@ -6,7 +6,7 @@
 [![Tokyo Tech](https://img.shields.io/badge/Tokyo%20Tech-Computer%20Science-blue?logo=tokyouniversity&style=flat)]
 [![Kaggle](https://img.shields.io/badge/Kaggle-March%20ML%20Mania%202025-orange?logo=kaggle&style=flat)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ShunmeiCho-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter&style=flat)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter&style=flat)](https://twitter.com/ZJM330)
 
 <!-- ─────────────────────────────────────────────────────────────────────────────
      头部
