@@ -2,7 +2,9 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shunmei+Cho+%28%E8%B6%99+%E4%BF%8A%E8%8C%97%29;Small-Data+Reasoning+%7C+LLM+%C3%97+Robotics+%7C+MLOps)](https://git.io/typing-svg)
+<a href="https://github.com/ShunmeiCho">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=620&height=55&lines=Hi+I'm+Shunmei+Cho+(Zhao+Junming);NVIDIA+Student+Ambassador+(AI+%2F+LLM);Small-Data+Reasoning+%7C+LLM+x+Robotics;Kaggle+Bronze+Medal+%7C+Top+8.7%25" alt="Typing SVG" />
+</a>
 
 <!-- Badges -->
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Student%20Ambassador-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
@@ -23,7 +25,7 @@
 ## About Me
 
 ```yaml
-name: Shunmei Cho (趙 俊茗)
+name: Shunmei Cho (Zhao Junming / 趙 俊茗)
 role: M.Sc. Candidate in Computer Science
 affiliation: Tokyo University of Technology
 title: NVIDIA Student Ambassador (AI / LLM Team)
@@ -35,13 +37,13 @@ research:
   - Robust generalization with distribution shift
 
 systems:
-  - LLM × Robotics (Unitree GO2 prototype)
-  - Voice → ASR → LLM → Robot Control → Feedback Loop
+  - LLM x Robotics (Unitree GO2 prototype)
+  - Voice -> ASR -> LLM -> Robot Control -> Feedback Loop
   - Reproducible ML experiment pipelines
 
 languages:
-  - 中文: Native
-  - 日本語: Business Level
+  - Chinese: Native
+  - Japanese: Business Level
   - English: Fluent
 
 philosophy: "Explainable, Reproducible, Deployable."
@@ -54,12 +56,21 @@ philosophy: "Explainable, Reproducible, Deployable."
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=ShunmeiCho&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShunmeiCho&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=ShunmeiCho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
@@ -149,19 +160,12 @@ Interface contracts | Latency budgets | Safety filters | Fallback behaviors
 
 ## Featured Projects
 
-<div align="center">
-
-[![HRM](https://github-readme-stats.vercel.app/api/pin/?username=ShunmeiCho&repo=hrm-experiments&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ShunmeiCho/hrm-experiments)
-[![Go2-LLM](https://github-readme-stats.vercel.app/api/pin/?username=ShunmeiCho&repo=go2-llm-prototype&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ShunmeiCho/go2-llm-prototype)
-
-</div>
-
 | Project | Description | Tech | Highlight |
 |:--------|:------------|:-----|:----------|
-| **HRM Experiments** | Reproducible training & evaluation for compositional reasoning | PyTorch / W&B / Docker | Research rigor + reproducibility |
-| **Go2 x LLM** | Voice-to-robot control with safety constraints | ROS2 / Unitree SDK / ASR | End-to-end systems engineering |
-| **Kaggle: ML Mania** | Feature engineering + ensemble pipeline | LightGBM / XGBoost / CatBoost | **Top 8.7%** (150/1727) |
-| **RAG Chatbot** | Document retrieval QA for university apps | LangChain / FAISS / LLM | Production LLM application |
+| [**Claudia**](https://github.com/ShunmeiCho/Claudia) | Intelligent quadruped robot with LLM for dialogue, voice and navigation | ROS2 / Unitree SDK / ASR | End-to-end LLM x Robotics |
+| [**March ML Mania 2025**](https://github.com/ShunmeiCho/March-Machine-Learning-Mania-2025) | Feature engineering + ensemble pipeline for NCAA predictions | LightGBM / XGBoost / CatBoost | **Top 8.7%** (150/1727) |
+| [**JetLLM**](https://github.com/ShunmeiCho/JetLLM) | LLM deployment and inference optimization | CUDA / Python | GPU-accelerated inference |
+| [**PEFT-SFT-Curator**](https://github.com/ShunmeiCho/PEFT-SFT-Curator) | Parameter-efficient fine-tuning and data curation pipeline | PyTorch / PEFT | Efficient LLM training |
 
 ---
 
