@@ -24,50 +24,19 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Shunmei Cho** (趙 俊茗) — M.Sc. Candidate in Computer Science @ **Tokyo University of Technology**
 
-### &nbsp;&nbsp;Profile
-
-&nbsp;&nbsp;**Shunmei Cho** (Zhao Junming / 趙 俊茗)
-
-&nbsp;&nbsp;M.Sc. Candidate in Computer Science
-&nbsp;&nbsp;@ **Tokyo University of Technology**
-
-&nbsp;&nbsp;**NVIDIA Student Ambassador** (AI / LLM Team)
-&nbsp;&nbsp;**Kaggle Bronze Medal** — March ML Mania 2025
-&nbsp;&nbsp;150/1727, Top **8.7%**
-
----
-
-&nbsp;&nbsp;`Chinese` Native &nbsp; `Japanese` Business &nbsp; `English` Fluent
-
-</td>
-<td width="50%" valign="top">
-
-### &nbsp;&nbsp;What I Build
-
-&nbsp;&nbsp;**Research**
-&nbsp;&nbsp;Hierarchical Reasoning Models for
-&nbsp;&nbsp;small-data inference & structured
-&nbsp;&nbsp;knowledge under data constraints
-
-&nbsp;&nbsp;**Systems**
-&nbsp;&nbsp;LLM x Robotics end-to-end prototyping
-&nbsp;&nbsp;Voice → ASR → LLM → Robot → Feedback
-
-&nbsp;&nbsp;**Engineering**
-&nbsp;&nbsp;Reproducible ML experiments
-&nbsp;&nbsp;Config-driven | W&B tracked | Dockerized
-
----
+- **NVIDIA Student Ambassador** (AI / LLM Team)
+- **Kaggle Bronze Medal** — March ML Mania 2025 (150/1727, Top **8.7%**)
+- Languages: `Chinese` Native · `Japanese` Business · `English` Fluent
 
 > *"Explainable, Reproducible, Deployable."*
 
-</td>
-</tr>
-</table>
+| Area | Focus |
+|:-----|:------|
+| **Research** | Hierarchical Reasoning Models for small-data inference & structured knowledge under data constraints |
+| **Systems** | LLM x Robotics (Unitree GO2) — Voice → ASR → LLM → Robot Control → Feedback Loop |
+| **Engineering** | Reproducible ML experiments — Config-driven, W&B tracked, Dockerized |
 
 ---
 
