@@ -24,30 +24,50 @@
 
 ## About Me
 
-```yaml
-name: Shunmei Cho (Zhao Junming / 趙 俊茗)
-role: M.Sc. Candidate in Computer Science
-affiliation: Tokyo University of Technology
-title: NVIDIA Student Ambassador (AI / LLM Team)
-achievement: Kaggle Bronze Medal - March ML Mania 2025 (150/1727, Top 8.7%)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-research:
-  - Hierarchical Reasoning Models for small-data inference
-  - Structured knowledge inference under data constraints
-  - Robust generalization with distribution shift
+### &nbsp;&nbsp;Profile
 
-systems:
-  - LLM x Robotics (Unitree GO2 prototype)
-  - Voice -> ASR -> LLM -> Robot Control -> Feedback Loop
-  - Reproducible ML experiment pipelines
+&nbsp;&nbsp;**Shunmei Cho** (Zhao Junming / 趙 俊茗)
 
-languages:
-  - Chinese: Native
-  - Japanese: Business Level
-  - English: Fluent
+&nbsp;&nbsp;M.Sc. Candidate in Computer Science
+&nbsp;&nbsp;@ **Tokyo University of Technology**
 
-philosophy: "Explainable, Reproducible, Deployable."
-```
+&nbsp;&nbsp;**NVIDIA Student Ambassador** (AI / LLM Team)
+&nbsp;&nbsp;**Kaggle Bronze Medal** — March ML Mania 2025
+&nbsp;&nbsp;150/1727, Top **8.7%**
+
+---
+
+&nbsp;&nbsp;`Chinese` Native &nbsp; `Japanese` Business &nbsp; `English` Fluent
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;&nbsp;What I Build
+
+&nbsp;&nbsp;**Research**
+&nbsp;&nbsp;Hierarchical Reasoning Models for
+&nbsp;&nbsp;small-data inference & structured
+&nbsp;&nbsp;knowledge under data constraints
+
+&nbsp;&nbsp;**Systems**
+&nbsp;&nbsp;LLM x Robotics end-to-end prototyping
+&nbsp;&nbsp;Voice → ASR → LLM → Robot → Feedback
+
+&nbsp;&nbsp;**Engineering**
+&nbsp;&nbsp;Reproducible ML experiments
+&nbsp;&nbsp;Config-driven | W&B tracked | Dockerized
+
+---
+
+> *"Explainable, Reproducible, Deployable."*
+
+</td>
+</tr>
+</table>
 
 ---
 
