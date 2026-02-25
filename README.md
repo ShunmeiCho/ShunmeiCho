@@ -64,16 +64,6 @@
 
 ---
 
-<!-- ===== TROPHIES ===== -->
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-alpha-five.vercel.app/?username=ShunmeiCho&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- ===== TECH STACK ===== -->
 
 ## Tech Stack
