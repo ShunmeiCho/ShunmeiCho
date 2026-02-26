@@ -46,8 +46,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&cache_seconds=1800&v=2" />
+    <img height="180em" src="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShunmeiCho&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
@@ -57,8 +57,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-sage-84.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats-six-sage-84.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-sage-84.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8&cache_seconds=1800&v=2" />
+    <img height="180em" src="https://github-readme-stats-six-sage-84.vercel.app/api/top-langs/?username=ShunmeiCho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&v=2" alt="Top Languages" />
   </picture>
 </div>
 
