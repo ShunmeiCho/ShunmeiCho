@@ -57,7 +57,7 @@ M.Sc. candidate in Computer Science at Tokyo University of Technology. I build d
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&cache_seconds=1800&v=2" />
-    <img height="180em" src="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&cache_seconds=1800&v=2" />
+    <img height="180em" src="https://github-readme-stats-six-sage-84.vercel.app/api?username=ShunmeiCho&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
   </picture>
 </div>
