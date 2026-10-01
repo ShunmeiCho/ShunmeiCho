@@ -13,16 +13,16 @@ M.Sc. candidate in Computer Science at Tokyo University of Technology. I build d
 
 ## About
 
-- **NVIDIA Student Ambassador** (AI / LLM Team)
-- **IPSJ 第88回全国大会 口頭発表** (2026/3)
-- **Kaggle Bronze Medal**: March ML Mania 2025 (150/1727, top 8.7%)
-- Languages: Chinese (native) · Japanese (business) · English (professional working)
+- **NVIDIA AI Technology Center (NVAITC) Student Ambassador**: four workshop talks
+- **IPSJ 第88回全国大会 口頭発表** (2026/3, first author)
+- **Kaggle Bronze Medal** (team): March Machine Learning Mania 2025 (150/1727, top 8.7%)
+- Languages: Chinese (native) · Japanese (educated in Japan from junior high through graduate school) · English (EIKEN Grade 2; reads papers and technical documentation)
 
 | Area | Focus |
 |:-----|:------|
 | **Developer tools** | Small, focused utilities in Go and Swift, shipped with releases and maintained against user issues |
 | **Systems** | LLM x Robotics on Unitree Go2: voice, ASR, local LLM, safety compiler, robot control, all on a Jetson Orin NX |
-| **Research** | Hierarchical reasoning models for small-data inference: compositional generalization and distribution shift (code not yet public) |
+| **Research** | Whether added model structure helps when data is limited: HRM-family two-state recurrent models against baselines matched in parameters and compute, on synthetic tasks (IPSJ 2026) and financial time series (master's thesis, ongoing; code not yet public) |
 
 ---
 
@@ -34,7 +34,7 @@ M.Sc. candidate in Computer Science at Tokyo University of Technology. I build d
 | [**cmd-ime**](https://github.com/ShunmeiCho/cmd-ime) ![stars](https://img.shields.io/github/stars/ShunmeiCho/cmd-ime?style=flat-square) | Deterministic macOS input-source switcher: tap a modifier or press a shortcut to jump straight to any installed input method | Swift |
 | [**Claudia**](https://github.com/ShunmeiCho/Claudia) | On-device natural-language control for the Unitree Go2: ASR, local LLM and a SafetyCompiler running on a Jetson Orin NX | Python / ROS2 Foxy / CycloneDDS |
 | [**dotclaude**](https://github.com/ShunmeiCho/dotclaude) | Collection of Claude Code skills for easy setup across different environments | Python |
-| [**March ML Mania 2025**](https://github.com/ShunmeiCho/March-Machine-Learning-Mania-2025) | Feature engineering and ensemble pipeline for NCAA predictions (Kaggle bronze) | LightGBM / XGBoost / CatBoost |
+| [**March ML Mania 2025**](https://github.com/ShunmeiCho/March-Machine-Learning-Mania-2025) | Feature engineering, XGBoost model and evaluation for NCAA predictions (Kaggle bronze, team entry) | LightGBM / XGBoost / CatBoost |
 
 ---
 
